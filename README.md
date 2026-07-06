@@ -494,28 +494,6 @@ Visit `http://localhost:5173` for the app and `http://localhost:8000/docs` for t
 
 ---
 
-## 🔑 Environment Variables
-
-```env
-# Backend
-DATABASE_URL=postgresql://user:password@localhost:5432/mpos
-REDIS_URL=redis://localhost:6379/0
-JWT_SECRET_KEY=
-JWT_ALGORITHM=HS256
-LLM_API_KEY=
-TRANSLATION_API_KEY=
-VECTOR_DB_URL=
-PAYMENT_GATEWAY_KEY=
-PAYMENT_GATEWAY_SECRET=
-S3_BUCKET_NAME=
-S3_ACCESS_KEY=
-S3_SECRET_KEY=
-
-# Frontend
-VITE_API_BASE_URL=http://localhost:8000/api/v1
-```
-
----
 
 ## 🗺️ Roadmap
 
