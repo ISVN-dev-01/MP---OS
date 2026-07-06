@@ -537,14 +537,6 @@ VITE_API_BASE_URL=http://localhost:8000/api/v1
 
 Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request, and follow the existing code style (Black/Ruff for Python, ESLint/Prettier for TypeScript).
 
-## 👥 Team
-
-*Add your team name, member names, and roles here before submission.*
-
-## 📄 License
-
-Distributed under the MIT License — see `LICENSE` for details. *(Swap this out if your hackathon's rules require a different license.)*
-
 ## 🙏 Acknowledgements & Prior Art
 
 - **[CPGRAMS](https://pgportal.gov.in)** (Centralized Public Grievance Redress and Monitoring System, DARPG) — the existing benchmark for nationwide grievance intake and routing.
